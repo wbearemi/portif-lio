@@ -1,0 +1,143 @@
+
+  /* Seu CSS aqui */
+  body {
+    background-color: rgb(95, 7, 95);
+  }
+  h1 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 26%;
+    top: 30%;
+  }
+
+  .texto {
+    font-size: 25px;
+    position: absolute;
+    left: 20%;
+    top:5%;
+  }
+  .curso {
+  font-size: 115%;
+  position: absolute;
+  left: 46%;
+  top: 20%;
+  font-family: 'Borel', cursive;
+  font-family: 'Kanit', sans-serif;
+  }
+.mk {
+  width: 15%;
+  position: absolute;
+  right:10%;
+  top:30%
+}
+  .adm{
+    width: 15%;
+    position: absolute;
+    left:15%;
+    top:30%;
+
+  }
+  .prg {
+    width: 15%;
+    position: absolute;
+    right:40%;
+    top:30%;
+  }
+  p {
+    color: white;
+  }
+.emiii{
+ width: 10% ;
+position: absolute;
+left:4%;
+top:5%;
+
+}
+
+.admm {
+  font-size: 115%;
+  position: absolute;
+  left:  15%;
+  top: 65%;
+}
+
+.WBB{
+  font-size: 115%;
+  position: absolute;
+  left:  48%;
+  top: 65%;
+}
+.mkkk{
+  font-size: 115%;
+  position: absolute;
+  left:  78%;
+  top: 65%;
+}
+.pd{
+  font-size: 115%;
+  position: absolute;
+  left:  46%;
+  top: 80%;
+  font-family: 'Borel', cursive;
+font-family: 'Kanit', sans-serif;
+}
+.sc{
+  width: 10% ;
+  position: absolute;
+  left:4%;
+  top:90%;
+}
+.scc{
+  font-size: 25px;
+  position: absolute;
+  left: 20%;
+  top:87%;
+}
+
+.contato{
+
+font-size:115%;
+position: absolute;
+left:48%;
+top:115%;
+font-family: 'Borel', cursive;
+font-family: 'Kanit', sans-serif;
+}
+
+.icon-container {
+  position: absolute;
+  top:130%;
+  left: 46%;
+  display: flex;
+  justify-content: center;
+}
+
+.icon-container span {
+  font-size: 24px;
+  margin: 10px;
+  cursor: pointer;
+  color: aliceblue;
+
+}
+
+.inicio {
+  font-size: 15px;
+  position: absolute;
+  right: 15%;
+  top:0%;
+
+}
+
+.sobre {
+  font-size: 15px;
+  position: absolute;
+  right: 10%;
+  top:0%;
+}
+.Projeto {
+  font-size: 15px;
+  position: absolute;
+  right: 6%;
+  top:0%;
+}
